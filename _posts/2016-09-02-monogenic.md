@@ -118,8 +118,3 @@ exists \\(f\in T_n\\) with index \\(m\\) and period \\(r\\). Since the index of
 \\(f\\) is \\(m\\), there are at most \\(n - m\\) points in any cycle of
 \\(f\\), and so \\(r\\) is the order of a permutation in \\(S_{n -m}\\). In
 other words, \\(r\in B_m\\). \\(\blacksquare\\)
-
-Computing the values
-====================
-
-<script src="https://gist.github.com/james-d-mitchell/3588d693126355b315af4cba846eb0e4.js"></script>
