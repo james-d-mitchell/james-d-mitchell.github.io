@@ -2,7 +2,7 @@
 layout: post
 title: Counting monogenic semigroups
 subtitle: by James East and James Mitchell
-mdate: September 2, 2016
+mdate: October 19, 2016
 ---
 
 <!-- TODO: oeis links, numbers, code explanation, inverse semigroups -->
