@@ -26,8 +26,8 @@ navbar-links:
   #About Me: "aboutme"
   Resources:
     - GAP: "http://gap-system.org"
-    - Semigroups in GAP: "http://www.markdowntutorial.com/"
-    - Digraphs in GAP: "http://www.markdowntutorial.com/"
+    - Semigroups in GAP: "https://gap-packages.github.io/Semigroups/"
+    - Digraphs in GAP: "https://gap-packages.github.io/Digraphs/"
   Author's home: "http://goo.gl/Ac5h8H"
 
 # Image to show in the navigation bar - image must be a square (width = height)
