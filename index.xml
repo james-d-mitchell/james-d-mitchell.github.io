@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. D. Mitchell</title>
-    <link>james-d-mitchell.github.io/</link>
+    <link>https://james-d-mitchell.github.io/</link>
     <description>Recent content on J. D. Mitchell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© J. D. Mitchell</copyright>
     <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="james-d-mitchell.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://james-d-mitchell.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>james-d-mitchell.github.io/about/</link>
+      <link>https://james-d-mitchell.github.io/about/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/about/</guid>
+      <guid>https://james-d-mitchell.github.io/about/</guid>
       <description>This is the webpage of James D. Mitchell. I am a professor of mathematics at the School of Mathematics and Statistics at the University of St Andrews. I&amp;rsquo;m currently interested in computational semigroup theory, and topological algebra.
 The website accompanying the paper ‘Groups that together with any transformation generate regular semigroups or idempotent generated semigroups’ by J. Araújo, J. D. Mitchell and Csaba Schneider is available here.
 Address Mathematical Institute,</description>
@@ -25,47 +25,47 @@ Address Mathematical Institute,</description>
     
     <item>
       <title>Data</title>
-      <link>james-d-mitchell.github.io/data/</link>
+      <link>https://james-d-mitchell.github.io/data/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/data/</guid>
+      <guid>https://james-d-mitchell.github.io/data/</guid>
       <description>This page is under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>james-d-mitchell.github.io/publ/</link>
+      <link>https://james-d-mitchell.github.io/publ/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/publ/</guid>
+      <guid>https://james-d-mitchell.github.io/publ/</guid>
       <description>A list of publications by J. D. Mitchell on MathSciNet.
  (with Z. Mesyan and Y. H. Péresse) &amp;lsquo;Topological transformation monoids&amp;rsquo;, submitted; https://arxiv.org/abs/1809.04590 (with James Hyde, Julius Jonusas, Yann H. Péresse) &amp;lsquo;Sets of universal sequences for the symmetric group and analogous semigroups&amp;rsquo;, submitted; https://arxiv.org/abs/1803.01377 (with J. East and M. Gadouleau) &amp;lsquo;Structural aspects of semigroups based on digraphs&amp;rsquo;, to appear in Algebraic Combinatorics; https://arxiv.org/abs/1704.00937 (with Jillian D. McPhee and Martyn Quick) &amp;lsquo;Automorphism groups of linearly ordered structures and endomorphisms of the ordered set (ℚ,≤) of rational numbers&amp;rsquo;, to appear in Q.</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>james-d-mitchell.github.io/soft/</link>
+      <link>https://james-d-mitchell.github.io/soft/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/soft/</guid>
+      <guid>https://james-d-mitchell.github.io/soft/</guid>
       <description> Digraphs deposited GAP package, 2020. Semigroups deposited GAP package, 2020. SgpDec - Hierarchical composition and decomposition of finite permutation groups and transformation semigroups (by A. Egri-Nagy and C. Nehaniv with some contributions by me) deposited GAP package, 2019. Smallsemi - a library of small semigroups (with A. Distler) deposited GAP package, 2019. libsemigroups C++ library, 2020. libsemigroups_cppyy python package for using libsemigroups via cppyy 2020.  </description>
     </item>
     
     <item>
       <title></title>
-      <link>james-d-mitchell.github.io/archives/</link>
+      <link>https://james-d-mitchell.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/archives/</guid>
+      <guid>https://james-d-mitchell.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Counting monogenic semigroups</title>
-      <link>james-d-mitchell.github.io/posts/2016-09-02-monogenic/</link>
+      <link>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>james-d-mitchell.github.io/posts/2016-09-02-monogenic/</guid>
+      <guid>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</guid>
       <description>In this post we show how to count the number of monogenic subsemigroups of the full transformation monoid up to isomorphism.
 Throughout this post, we denote the natural numbers \(\{0, 1, \ldots\}\) by \({\mathbb{N}}\). The symmetric group and full transformation semigroup on \(\{1, \ldots, n\}\), \(n\in {\mathbb{N}}\), are denoted \(S_n\) and \(T_n\), respectively. A subsemigroup of a semigroup \(S\) is monogenic if it can be generated by a single element; monogenic subsemigroups of finite groups are just cyclic subgroups.</description>
     </item>
