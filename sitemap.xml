@@ -1,53 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://james-d-mitchell.github.io/about/</loc>
-    <lastmod>2021-02-05T12:29:29+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/data/</loc>
-    <lastmod>2021-02-05T12:28:44+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/publ/</loc>
-    <lastmod>2021-02-05T12:29:36+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-27T11:04:33+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/soft/</loc>
-    <lastmod>2021-02-05T12:28:14+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/archives/</loc>
-    <lastmod>2020-05-02T14:11:21+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/posts/</loc>
-    <lastmod>2020-09-22T08:51:44+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</loc>
-    <lastmod>2020-09-22T08:51:44+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/</loc>
-    <lastmod>2021-02-05T12:28:32+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-25T15:05:21+01:00</lastmod>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://james-d-mitchell.github.io/tags/</loc>
   </url>
-  
 </urlset>
