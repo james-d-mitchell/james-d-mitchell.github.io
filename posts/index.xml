@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© J. D. Mitchell</copyright>
-    <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://james-d-mitchell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://james-d-mitchell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An implementation of the Todd-Coxeter algorithm in python3</title>
+      <link>https://james-d-mitchell.github.io/posts/2021-07-11-todd-coxeter/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://james-d-mitchell.github.io/posts/2021-07-11-todd-coxeter/</guid>
+      <description>This page is a companion to the paper The Todd-Coxeter Algorithm for Semigroups and Monoids by T. D. H. Coleman, J. D. Mitchell, F. L. Smith, and M. Tsalakou. On this page we give an implementation of the two strategies for congruence enumeration described in the paper in python3. The code on this page is expository, and should probably not be used for anything serious. There are many optimization that could be applied, but we opted not to do these in order to keep the code short.</description>
+    </item>
+    
     <item>
       <title>The number of monogenic subsemigroups of the full transformation monoid</title>
       <link>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</link>
