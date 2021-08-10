@@ -43,7 +43,7 @@ Address Mathematical Institute,</description>
       
       <guid>https://james-d-mitchell.github.io/publ/</guid>
       <description>A list of publications by J. D. Mitchell on MathSciNet.
- (with F. Hivert, F. L. Smith, and W. A. Wilson) ‘Minimal generating sets for matrix monoids‘, preprint; https://arxiv.org/abs/2012.10323 (with J. East and J. Jonušas) ‘Generating the monoid of 2×2 matrices over max-plus and min-plus semirings‘, preprint; https://arxiv.org/abs/2009.10372 (with Z. Mesyan and Y. H. Péresse) &amp;lsquo;Topological transformation monoids&amp;rsquo;, preprint; https://arxiv.org/abs/1809.04590 (with M. Tsalakou) ‘An explicit algorithm for normal forms in small overlap monoids‘, submitted; http://arxiv.</description>
+ (with J. East and J. Jonušas) ‘Generating the monoid of 2×2 matrices over max-plus and min-plus semirings‘, preprint; https://arxiv.org/abs/2009.10372 (with Z. Mesyan and Y. H. Péresse) &amp;lsquo;Topological transformation monoids&amp;rsquo;, preprint; https://arxiv.org/abs/1809.04590 (with F. Hivert, F. L. Smith, and W. A. Wilson) ‘Minimal generating sets for matrix monoids‘, submitted; https://arxiv.org/abs/2012.10323 (with M. Tsalakou) ‘An explicit algorithm for normal forms in small overlap monoids‘, submitted; http://arxiv.</description>
     </item>
     
     <item>
@@ -62,6 +62,17 @@ Address Mathematical Institute,</description>
       
       <guid>https://james-d-mitchell.github.io/archives/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://james-d-mitchell.github.io/lnotes/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://james-d-mitchell.github.io/lnotes/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
     </item>
     
     <item>
