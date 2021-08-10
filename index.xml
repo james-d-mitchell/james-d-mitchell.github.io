@@ -65,17 +65,6 @@ Address Mathematical Institute,</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://james-d-mitchell.github.io/lnotes/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://james-d-mitchell.github.io/lnotes/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
       <title>The number of monogenic subsemigroups of the full transformation monoid</title>
       <link>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
