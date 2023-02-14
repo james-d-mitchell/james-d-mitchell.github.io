@@ -232,7 +232,7 @@ svg{
 
 ol {
   list-style: none;
-  counter-reset: my-awesome-counter 70;
+  counter-reset: my-awesome-counter 71;
 }
 
 ol li:before {
