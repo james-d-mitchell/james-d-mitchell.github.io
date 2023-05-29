@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://james-d-mitchell.github.io/posts/2021-07-11-todd-coxeter/</loc>
+<<<<<<< HEAD
     <lastmod>2021-07-11T14:48:21+01:00</lastmod>
   </url><url>
     <loc>https://james-d-mitchell.github.io/posts/</loc>
@@ -25,11 +26,39 @@
   </url><url>
     <loc>https://james-d-mitchell.github.io/</loc>
     <lastmod>2022-06-30T10:06:41+01:00</lastmod>
+=======
+    <lastmod>2023-05-29T15:14:56+01:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/posts/</loc>
+    <lastmod>2023-05-29T15:14:56+01:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/about/</loc>
+    <lastmod>2021-02-05T12:29:29+00:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/data/</loc>
+    <lastmod>2021-02-05T12:28:44+00:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/publ/</loc>
+    <lastmod>2023-05-29T15:18:46+01:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/archives/</loc>
+    <lastmod>2020-05-02T14:11:21+01:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/posts/2016-09-02-monogenic/</loc>
+    <lastmod>2020-09-22T08:51:44+01:00</lastmod>
+  </url><url>
+    <loc>https://james-d-mitchell.github.io/</loc>
+    <lastmod>2023-05-29T15:14:56+01:00</lastmod>
+>>>>>>> b57962a (rebuilding site Mon 29 May 2023 15:20:14 BST)
   </url><url>
     <loc>https://james-d-mitchell.github.io/categories/</loc>
   </url><url>
     <loc>https://james-d-mitchell.github.io/soft/</loc>
+<<<<<<< HEAD
     <lastmod>2022-09-13T10:33:04+01:00</lastmod>
+=======
+    <lastmod>2023-05-29T15:14:56+01:00</lastmod>
+>>>>>>> b57962a (rebuilding site Mon 29 May 2023 15:20:14 BST)
   </url><url>
     <loc>https://james-d-mitchell.github.io/tags/</loc>
   </url>
