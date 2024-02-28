@@ -230,18 +230,3 @@ svg{
     margin-left: 6px;
     background-color: #f9f2f4;
 }
-
-ol {
-  list-style: none;
-  counter-reset: my-awesome-counter 73;
-}
-
-ol li:before {
-  content: counter(my-awesome-counter) ". ";
-}
-
-ol li {
-  list-style-type: none;
-  margin-bottom: 10px;
-  counter-increment: my-awesome-counter -1;
-}
