@@ -209,11 +209,11 @@ justify-content: space-between;
   content: "🏷 ";
 }
 .tags a{
-  border-bottom: 3px solid var(--maincolor);
+  border-bottom: 3px solid var(--maincolor); 
 }
 .tags a:hover{
   color:white;
-  background-color: var(--hovercolor);
+  background-color: var(--hovercolor); 
 }
 svg{
   max-height: 15px;
@@ -221,12 +221,26 @@ svg{
 .soc:hover{
   color: white;
 }
-
-.draft-label{
+.draft-label{ 
     color: var(--bordercl);
     text-decoration: none;
     padding: 2px 4px;
     border-radius: 4px;
     margin-left: 6px;
     background-color: #f9f2f4;
+}
+
+ol {
+  list-style: none;
+  counter-reset: my-awesome-counter 62;
+}
+
+ol li:before {
+  content: counter(my-awesome-counter) ". ";
+}
+
+ol li {
+  list-style-type: none;
+  margin-bottom: 10px;
+  counter-increment: my-awesome-counter -1;
 }
